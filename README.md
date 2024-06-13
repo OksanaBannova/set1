@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/xulfiiqd72imbwf7?svg=true)](https://ci.appveyor.com/project/OksanaBannova/set)
+[![Build status](https://ci.appveyor.com/api/projects/status/790qu2ofwrbcf9cp?svg=true)](https://ci.appveyor.com/project/OksanaBannova/set1)
 
 
 ## `Set`
